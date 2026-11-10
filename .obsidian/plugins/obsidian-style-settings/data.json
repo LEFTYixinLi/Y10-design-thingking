@@ -1,3 +1,8 @@
 {
-  "CG@@CG-workspace-background-image": "CG-workspace-background-image-custom"
+  "CG@@CG-workspace-background-image": "CG-workspace-background-image-custom",
+  "CG@@CG-workspace-background-image-custom-option": "https://raw.githubusercontent.com/LEFTYixinLi/Y10-design-thingking/a116ece5a68f795fc75cfb16cf10dbf5f3b34b80/%E5%9B%BE%E7%89%87/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-11-09%20143645.png",
+  "CG@@CG-workspace-background-workspace-slider": 0.52,
+  "CG@@CG-workspace-background-blur": 11,
+  "CG@@CG-workspace-background-brightness": 1.83,
+  "CG@@CG-workspace-background-saturation": 2.28
 }

@@ -1,1 +1,6 @@
-{}
+{
+  "cssTheme": "Cyber Glow",
+  "accentColor": "#5ee7df",
+  "baseFontSizeAction": true,
+  "theme": "obsidian"
+}

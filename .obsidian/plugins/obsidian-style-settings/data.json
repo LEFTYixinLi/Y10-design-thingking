@@ -23,5 +23,8 @@
   "CG@@CG-Header-slider3": 0,
   "CG@@CG-Header-slider4": 0,
   "CG@@CG-workspace-background-contrast": 100,
-  "CG@@CG-workspace-background-saturation": 2.6
+  "CG@@CG-workspace-background-saturation": 2.6,
+  "CG@@hover-accent": "#DCA0E2",
+  "CG@@bulletlist-color": "#D54CD6",
+  "CG@@h1-glow": "#DCA0E2"
 }
